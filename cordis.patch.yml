@@ -1,0 +1,4 @@
+# dsh-github-tool bundle patch: mounts the plugin into a profile layer stack.
+- insert:
+    - id: github-tool
+      name: '@local/dsh-github-tool'
